@@ -202,4 +202,4 @@ Feel free to check the [issues page](../../issues).
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Atharv Agrey**
